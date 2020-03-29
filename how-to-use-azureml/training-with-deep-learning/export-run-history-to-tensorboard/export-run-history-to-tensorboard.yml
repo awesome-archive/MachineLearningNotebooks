@@ -7,3 +7,4 @@ dependencies:
   - tqdm
   - scipy
   - sklearn
+  - setuptools>=41.0.0
